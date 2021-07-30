@@ -1,0 +1,1 @@
+This repository is about my learning of angular and exercises i have done during learning
